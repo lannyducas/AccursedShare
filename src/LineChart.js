@@ -5,6 +5,7 @@ import * as d3 from 'd3';
 import './index.css';
 
 //clean up log in page
+//Clean up data input
 
 export default function LineChart({data1, ageValues, earningsArray, expendituresArray}) {
     useEffect(()=> {
