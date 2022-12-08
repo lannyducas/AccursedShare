@@ -7,6 +7,7 @@ import './index.css';
 //clean up log in page
 //Clean up data input
 //publish demo tomorrow
+// publish demo for garbage sandwich probably
 
 
 export default function LineChart({data1, ageValues, earningsArray, expendituresArray}) {
