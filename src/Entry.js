@@ -4,6 +4,7 @@ import { Button, Form } from 'react-bootstrap';
 
 
 export default function Entry({loggedIn, data, setData, ageValues, setAgeValues, earningsArray, setEarningsArray, expendituresArray, setExpendituresArray}) {
+    //make a form to input multiple values corresponding to state
     
 // const {form, setForm} = useState({})
 const [incomeVisible, setIncomeVisible] = useState(false);
