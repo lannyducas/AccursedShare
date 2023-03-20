@@ -12,6 +12,7 @@ function utility_function(c) {
   }
   console.log(12, Math.log(c))
   return Math.log(c);
+  
 }
 
 function value_function(T, X, r, beta) {
