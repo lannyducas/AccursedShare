@@ -34,7 +34,7 @@ export default function App() {
 
   // useEffect(() => {
 
-  
+  //pull on to huawei, then push to github with backend, then pull to LG with full functioning backend
   // }, []);
 
   
